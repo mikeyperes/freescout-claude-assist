@@ -1,0 +1,9 @@
+{
+    "name": "HexawebClaudeAssist",
+    "alias": "hexawebclaudeassist",
+    "description": "Claude AI email assistant (Anthropic API)",
+    "version": "1.0.0",
+    "active": 1,
+    "detached": true,
+    "providers": ["Modules\\HexawebClaudeAssist\\Providers\\ClaudeAssistServiceProvider"]
+}
